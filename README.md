@@ -1,4 +1,4 @@
-# CUDA con Numba para Data Science y Big Data
+# CUDA con Python y Numba
 
 Esta introducción a CUDA con Python mediante Numba está extraído en su casi totalidad del ["Numba tutorial for GTC 2017 conference"](https://github.com/ContinuumIO/gtc2017-numba). Se han actualizado algunos códigos, traducido al castellano, y adaptado un notebook para profundizar en implementación de map reduce. De esta forma, se muestra como un científico de datos y big data puede hacer uso de CUDA con Python para acelerar su código en GPU.
 
