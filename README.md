@@ -8,7 +8,7 @@ La estructura es la siguiente:
 1. Bases de Numba: Una introducción a Numba, un módulo de Python que permite compilar funciones.
 2. Bases de CUDA: Una introducción a CUDA mediante Numba, mediante la compilación de ufunc de Numpy.
 3. Gestión de Memoria: Introducción al manejo de arrays en GPUs, minimizando la transferencia de datos desde y hacia la GPU.
-4. Map-Reduce en CUDA (pendiente): Una demostración de cómo implementar una función map y una función reduce en la GPU, y cómo estas se paralelizan.
+4. Map-Reduce en CUDA: Una demostración de cómo paralelizar las operaciones map y reduce en la GPU.
 5. Kernels de CUDA (pendiente): Una muestra de cómo implementar una función kernel en CUDA, haciendo uso explícito de los hilos.
 6. Depuración (pendiente)
 7. Extra (pendiente)
